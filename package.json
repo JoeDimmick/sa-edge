@@ -1,0 +1,23 @@
+{
+  "name": "sa-edge",
+  "version": "1.0.0",
+  "description": "Tracks wins, losses, total games played of a team in the mobile game SinoAlice",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server" : "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeDimmick/sa-edge.git"
+  },
+  "author": "Klinton Smith & Joe Dimmick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeDimmick/sa-edge/issues"
+  },
+  "homepage": "https://github.com/JoeDimmick/sa-edge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
